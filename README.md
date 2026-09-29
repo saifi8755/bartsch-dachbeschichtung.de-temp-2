@@ -1,6 +1,6 @@
-# Dachservice Pintilei - Demo Website
+# Bartsch & Loßner GmbH Dachbeschichtung - Demo Website
 
-Website demo for Dachservice Pintilei (Roofing Contractor in Harburg, Germany).
+Website demo for Bartsch & Loßner GmbH Dachbeschichtung (Roofing Contractor in Hamburg, Germany).
 
 ## Running locally
 
